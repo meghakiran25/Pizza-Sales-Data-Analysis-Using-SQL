@@ -10,17 +10,17 @@ The primary objective of this project is to leverage SQL for in-depth analysis o
 
 The dataset  used in this analysis includes:
 
-1.pizzas.csv: Information about different types of pizzas
+1. pizzas.csv: Information about different types of pizzas
 
-2.pizza_types.csv: Provides details about pizza categories and name.
+2. pizza_types.csv: Provides details about pizza categories and name.
 
-3.orders.csv: Details of each order placed
+3. orders.csv: Details of each order placed
 
-4.order_details.csv:  Specific details about each order, such as the quantity and type of pizza ordered.
+4. order_details.csv:  Specific details about each order, such as the quantity and type of pizza ordered.
 
 **INSIGHTS**
 
-1 High Order Volume and Revenue: With a substantial total number of orders placed and significant revenue generated, the business demonstrates a strong market presence and customer demand for our pizzas.
+1. High Order Volume and Revenue: With a substantial total number of orders placed and significant revenue generated, the business demonstrates a strong market presence and customer demand for our pizzas.
 
 2. Popular Pizzas and Sizes: Identifying the most ordered pizza types and preferred sizes helps us understand customer preferences better, allowing us to optimize our menu and inventory accordingly.
 
