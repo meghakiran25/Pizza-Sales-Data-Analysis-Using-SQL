@@ -1,5 +1,6 @@
-< b>Pizza Sales Data Analysis using SQL</>
+**Pizza Sales Data Analysis using SQL**
+
 Welcome to my Pizza Sales Analysis  project!
 
-OBJECTIVE
+**OBJECTIVE**
 
